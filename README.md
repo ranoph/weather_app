@@ -4,7 +4,7 @@ This weather app is a simple and intuitive tool created using HTML, CSS, and Jav
 
 Key Features:
 - **User-Friendly Interface:** The app has a clean and responsive design, ensuring it looks great on both desktop and mobile devices.
-- **Real-Time Weather Data:** By integrating with the OpenWeather API, the app fetches current weather conditions, including temperature, humidity, wind speed, and weather descriptions, for any city the user searches for.
+- **Real-Time Weather Data:** By integrating with the OpenWeather API, the app fetches current weather conditions, including temperature, humidity, wind speed, and weather descriptions, for any country the user searches for.
 - **Dynamic Backgrounds:** The app's background changes based on the current weather conditions (e.g., sunny, cloudy, rainy), enhancing the user experience.
 - **Location-Based Search:** Users can search for the weather in any city by entering the city name in the search bar.
 - **Temperature Conversion:** The app allows users to toggle between Celsius and Fahrenheit for temperature readings.
